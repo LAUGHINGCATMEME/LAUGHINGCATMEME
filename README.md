@@ -8,7 +8,7 @@
 ### Programming languages
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c++,c&theme=light" />
+    <img src="https://skillicons.dev/icons?i=python,cpp&theme=light" />
   </a>
 </p>
 
@@ -16,7 +16,14 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,postgres,vim,github&theme=light" />
+    <img src="https://skillicons.dev/icons?i=docker,git,postgres,vim,github,arch,latex&theme=light" />
+  </a>
+</p>
+
+### Working on 
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=matlab,c&theme=light" />
   </a>
 </p>
 
