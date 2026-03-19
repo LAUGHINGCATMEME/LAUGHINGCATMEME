@@ -1,4 +1,5 @@
-## Hi there 👋 My name is Aumshree Shah
+## Hi there👋 My name is Aumshree Shah
+
 ### About me
 - 📚 I'm a 3rd Year Undergraduate at Indian Institute of Science Education and Research - Pune
 - 🌱 I am broadly intrested in Beyond the Standard Model, Gravitational Waves, and Computational Physics
