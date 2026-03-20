@@ -1,7 +1,7 @@
 ## Hi there👋 My name is Aumshree Shah
 
 ### About me
-- 📚 I'm a 3rd Year Undergraduate at Indian Institute of Science Education and Research - Pune
+- 📚 I'm a 3rd Year Undergraduate at **Indian Institute of Science Education and Research - Pune**
 - 🌱 I am broadly intrested in Beyond the Standard Model, Gravitational Waves, and Computational Physics
 - 📫 How to reach me: aumshree.pinkalbenshah@students.iiserpune.ac.in
 - 🔭 I am currently building a strong foundation in the mathemtaics required for QFT, and computational techniques relevant to HEP
